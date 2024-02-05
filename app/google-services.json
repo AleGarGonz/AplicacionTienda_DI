@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998009835256",
+    "project_id": "tienda-eaa99",
+    "storage_bucket": "tienda-eaa99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998009835256:android:aca6cae4c7d39d159d350d",
+        "android_client_info": {
+          "package_name": "com.example.aplicaciontienda_di"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJS2bYq_pmhU7074BS0ieBMno13-t54a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
